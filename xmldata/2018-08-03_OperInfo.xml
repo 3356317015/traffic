@@ -1,0 +1,38 @@
+
+<data> 
+  <head> 
+    <class_name>OperInfo</class_name>  
+    <create_time>2018-08-03 10:33:16</create_time>  
+    <count>4</count> 
+  </head>  
+  <body> 
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-08-03 10:33:16</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-08-03 10:33:22</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>车辆注册</operRight>  
+      <operTime>2018-08-03 10:33:23</operTime> 
+    </row>  
+    <row>
+      <operSeq></operSeq>
+      <deviceCode>5206</deviceCode>
+      <operModule>关闭</operModule>
+      <operRight></operRight>
+      <operTime>2018-08-03 10:33:34</operTime>
+    </row>
+  </body> 
+</data>

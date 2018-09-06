@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students> 
+<student><name>TigerLee</name><age>25</age><sex>男</sex> <address>北京海淀</address></student> 
+<student><name>Snow</name><age>24</age><sex>女</sex><address>山东</address></student> 
+<student><name>Sun</name><age>20</age><sex>Man</sex><address>USA</address></student>
+	<teachers> 
+	<student><name>TigerLee</name><age>25</age><sex>男</sex> <address>北京海淀</address></student> 
+	<student><name>Snow</name><age>24</age><sex>女</sex><address>山东</address></student> 
+	<student><name>Sun</name><age>20</age><sex>Man</sex><address>USA</address></student>
+	</teachers>
+</students>

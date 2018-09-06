@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system-config> 
+  <version>20160322122323</version>  
+  <key>LWA2F-RUWGM-PZFVU-XEOSV-4YLJE</key>  
+  <connectmode>1</connectmode>  
+  <clienttype>1</clienttype> 
+  <login> 
+    <backpass>true</backpass>  
+    <organize>52340D4C8A3B4D3FCD90DD7D09C4E273CD90DD7D09C4E273118F5B6D18AD1286</organize>  
+    <usercode>91F03A78DEAC3B52</usercode>  
+    <password>C7A50CE15186B80A</password>  
+    <autologin>true</autologin> 
+  </login>  
+  <style> 
+    <font> 
+      <sysfont> 
+        <name>宋体</name>  
+        <size>10</size>  
+        <bold>false</bold> 
+      </sysfont>  
+      <folderfont> 
+        <name>宋体</name>  
+        <size>10</size>  
+        <bold>false</bold> 
+      </folderfont>  
+      <btnfont> 
+        <name>宋体</name>  
+        <size>10</size>  
+        <bold>false</bold> 
+      </btnfont>  
+      <gridfont> 
+        <name>宋体</name>  
+        <size>10</size>  
+        <bold>false</bold> 
+      </gridfont> 
+    </font>  
+    <image> 
+      <toolbarshow>true</toolbarshow>  
+      <foldershowimage>true</foldershowimage>  
+      <btnshowimage>true</btnshowimage> 
+    </image>  
+    <dialogbar> 
+      <alignment>64</alignment> 
+    </dialogbar> 
+  </style> 
+</system-config>

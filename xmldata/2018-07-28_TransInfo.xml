@@ -1,0 +1,22 @@
+
+<data> 
+  <head> 
+    <class_name>TransInfo</class_name>  
+    <create_time>2018-07-28 06:52:30</create_time>  
+    <count>1</count> 
+  </head>  
+  <body>
+    <row>
+      <orderNo>201807281635871372</orderNo>
+      <transTime>2018-07-28 06:52:30</transTime>
+      <transCount>2</transCount>
+      <commodityCode></commodityCode>
+      <deviceCode>5206</deviceCode>
+      <transPrice>150</transPrice>
+      <payStatus>成功</payStatus>
+      <transStatus>成功</transStatus>
+      <commodityName>全票;半票</commodityName>
+      <transSeq></transSeq>
+    </row>
+  </body> 
+</data>

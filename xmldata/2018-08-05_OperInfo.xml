@@ -1,0 +1,17 @@
+
+<data> 
+  <head> 
+    <class_name>OperInfo</class_name>  
+    <create_time>2018-08-05 14:05:08</create_time>  
+    <count>1</count> 
+  </head>  
+  <body>
+    <row>
+      <operSeq></operSeq>
+      <deviceCode>5206</deviceCode>
+      <operModule>自助售票</operModule>
+      <operRight>自助售票</operRight>
+      <operTime>2018-08-05 14:05:08</operTime>
+    </row>
+  </body> 
+</data>

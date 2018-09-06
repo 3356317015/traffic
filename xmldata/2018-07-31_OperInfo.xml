@@ -1,0 +1,787 @@
+
+<data> 
+  <head> 
+    <class_name>OperInfo</class_name>  
+    <create_time>2018-07-31 10:54:18</create_time>  
+    <count>111</count> 
+  </head>  
+  <body> 
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次报班</operRight>  
+      <operTime>2018-07-31 10:54:17</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 10:54:37</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 10:54:38</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次报班</operRight>  
+      <operTime>2018-07-31 15:13:52</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次报班</operRight>  
+      <operTime>2018-07-31 15:13:56</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次报班</operRight>  
+      <operTime>2018-07-31 15:15:04</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次报班</operRight>  
+      <operTime>2018-07-31 16:02:52</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>资质信息</operModule>  
+      <operRight>主页</operRight>  
+      <operTime>2018-07-31 16:02:54</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:18:14</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:18:15</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>暂停使用</operRight>  
+      <operTime>2018-07-31 16:18:47</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次报班</operRight>  
+      <operTime>2018-07-31 16:20:05</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>资质信息</operModule>  
+      <operRight>主页</operRight>  
+      <operTime>2018-07-31 16:20:07</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:20:08</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:20:09</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>暂停使用</operRight>  
+      <operTime>2018-07-31 16:20:11</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:20:59</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:21:00</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>暂停使用</operRight>  
+      <operTime>2018-07-31 16:21:02</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:22:16</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:22:17</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>暂停使用</operRight>  
+      <operTime>2018-07-31 16:22:19</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:22:46</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:22:47</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>暂停使用</operRight>  
+      <operTime>2018-07-31 16:22:48</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:27:41</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:27:45</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>暂停使用</operRight>  
+      <operTime>2018-07-31 16:27:47</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次报班</operRight>  
+      <operTime>2018-07-31 16:32:33</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>资质信息</operModule>  
+      <operRight>主页</operRight>  
+      <operTime>2018-07-31 16:32:35</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次查询</operRight>  
+      <operTime>2018-07-31 16:32:36</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>班次查询</operModule>  
+      <operRight>主页</operRight>  
+      <operTime>2018-07-31 16:32:38</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次检票</operRight>  
+      <operTime>2018-07-31 16:32:39</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>班次检票</operModule>  
+      <operRight>主页</operRight>  
+      <operTime>2018-07-31 16:32:41</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:32:42</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:32:45</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:32:50</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次报班</operRight>  
+      <operTime>2018-07-31 16:46:55</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:47:03</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:47:13</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>班次报班</operRight>  
+      <operTime>2018-07-31 16:48:46</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:49:29</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:49:34</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:50:28</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:29</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:30</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:30</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:34</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:34</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:34</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:35</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:40</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>暂停使用</operRight>  
+      <operTime>2018-07-31 16:50:43</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:50:48</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:49</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:50:53</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 16:52:25</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:52:46</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:52:51</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 16:52:52</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:54:39</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:54:44</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 16:54:45</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统设置</operModule>  
+      <operRight>主页</operRight>  
+      <operTime>2018-07-31 16:56:20</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 16:59:08</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 16:59:12</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 16:59:15</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:02:31</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:02:32</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:02:38</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:02:39</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统设置</operModule>  
+      <operRight>返回</operRight>  
+      <operTime>2018-07-31 17:04:27</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:04:28</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:04:42</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:04:43</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:04:47</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:04:48</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统设置</operModule>  
+      <operRight>返回</operRight>  
+      <operTime>2018-07-31 17:05:28</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:05:29</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:07:09</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:07:14</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:07:14</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统设置</operModule>  
+      <operRight>返回</operRight>  
+      <operTime>2018-07-31 17:07:47</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:07:48</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:33:34</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:33:35</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:33:39</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:33:40</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:34:18</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:34:26</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:34:27</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:35:28</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:35:33</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:35:34</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:36:39</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:36:43</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:36:44</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:37:22</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:37:26</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:37:27</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:55:27</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:55:32</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:55:32</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统设置</operModule>  
+      <operRight>返回</operRight>  
+      <operTime>2018-07-31 17:55:40</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:55:59</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:56:00</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:56:04</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-31 17:56:05</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助服务</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-31 17:59:47</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-31 17:59:53</operTime> 
+    </row>  
+    <row>
+      <operSeq></operSeq>
+      <deviceCode>5206</deviceCode>
+      <operModule>系统管理</operModule>
+      <operRight>系统设置</operRight>
+      <operTime>2018-07-31 18:00:00</operTime>
+    </row>
+  </body> 
+</data>

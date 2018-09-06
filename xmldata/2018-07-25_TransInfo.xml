@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data> 
+  <head> 
+    <class_name>TransInfo</class_name>  
+    <create_time>2018-07-25 15:14:55</create_time>  
+    <count>50</count> 
+  </head>  
+  <body> 
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:14:55</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:14:56</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:14:57</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:14:58</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:14:59</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:15:00</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:15:01</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:15:02</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:15:03</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:15:04</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:15:05</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:15:06</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:15:07</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807250741390670</orderNo>  
+      <transTime>2018-07-25 15:15:08</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:36</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:37</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:38</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:39</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:40</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:41</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:42</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:43</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:44</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:45</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:46</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:47</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:48</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:49</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251559058707</orderNo>  
+      <transTime>2018-07-25 15:46:50</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:02</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:03</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:04</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:05</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:06</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:07</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:08</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:09</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:10</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:11</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:12</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:13</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:14</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:15</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>失败</transResult>  
+      <orderNo>201807251865277766</orderNo>  
+      <transTime>2018-07-25 15:51:16</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>成功</transResult>  
+      <orderNo>201807250821489320</orderNo>  
+      <transTime>2018-07-25 15:52:22</transTime>  
+      <transCount>3</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>200</transPrice>  
+      <commodityName>免票数;全票</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>成功</transResult>  
+      <orderNo>201807250149581396</orderNo>  
+      <transTime>2018-07-25 16:23:16</transTime>  
+      <transCount>2</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>100</transPrice>  
+      <payStatus>成功</payStatus>  
+      <commodityName>免票数;全票</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>成功</transResult>  
+      <orderNo>201807250228657012</orderNo>  
+      <transTime>2018-07-25 16:30:12</transTime>  
+      <transCount>2</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>100</transPrice>  
+      <payStatus>成功</payStatus>  
+      <commodityName>免票数;全票</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>成功</transResult>  
+      <orderNo>201807250668100613</orderNo>  
+      <transTime>2018-07-25 16:32:09</transTime>  
+      <transCount>2</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>100</transPrice>  
+      <payStatus>成功</payStatus>  
+      <commodityName>免票数;全票</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>成功</transResult>  
+      <orderNo>201807251550367445</orderNo>  
+      <transTime>2018-07-25 22:13:09</transTime>  
+      <transCount>3</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>150</transPrice>  
+      <payStatus>成功</payStatus>  
+      <commodityName>免票数;全票;半票</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row>
+      <transResult>成功</transResult>
+      <orderNo>201807250132876903</orderNo>
+      <transTime>2018-07-25 23:24:58</transTime>
+      <transCount>1</transCount>
+      <commodityCode></commodityCode>
+      <deviceCode>5206</deviceCode>
+      <transPrice>0</transPrice>
+      <payStatus>成功</payStatus>
+      <commodityName>免票数</commodityName>
+      <transSeq></transSeq>
+    </row>
+  </body> 
+</data>

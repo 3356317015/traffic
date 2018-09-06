@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data> 
+  <head> 
+    <class_name>OperInfo</class_name>  
+    <create_time>2018-07-25 15:10:41</create_time>  
+    <count>23</count> 
+  </head>  
+  <body> 
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 15:10:40</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 15:14:37</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 15:44:29</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 15:46:18</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 15:50:45</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 15:52:03</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 16:22:58</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 16:29:15</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 16:31:49</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 17:30:24</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>扫码支付</operModule>  
+      <operRight>返回</operRight>  
+      <operTime>2018-07-25 17:30:29</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 17:30:39</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 17:31:06</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 17:32:11</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>扫码支付</operModule>  
+      <operRight>返回</operRight>  
+      <operTime>2018-07-25 17:32:18</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助购票</operModule>  
+      <operRight>主页</operRight>  
+      <operTime>2018-07-25 17:32:19</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 17:32:20</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 17:33:16</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 17:43:28</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 17:44:04</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 22:12:37</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-25 23:22:44</operTime> 
+    </row>  
+    <row>
+      <operSeq></operSeq>
+      <deviceCode>5206</deviceCode>
+      <operModule>自助售票</operModule>
+      <operRight>自助售票</operRight>
+      <operTime>2018-07-25 23:24:39</operTime>
+    </row>
+  </body> 
+</data>

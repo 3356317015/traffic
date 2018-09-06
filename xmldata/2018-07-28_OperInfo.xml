@@ -1,0 +1,73 @@
+
+<data> 
+  <head> 
+    <class_name>OperInfo</class_name>  
+    <create_time>2018-07-28 06:51:31</create_time>  
+    <count>9</count> 
+  </head>  
+  <body> 
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-28 06:51:30</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>扫码支付</operModule>  
+      <operRight>返回</operRight>  
+      <operTime>2018-07-28 06:52:06</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-28 07:06:35</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助购票</operModule>  
+      <operRight>主页</operRight>  
+      <operTime>2018-07-28 07:06:42</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>系统管理</operRight>  
+      <operTime>2018-07-28 07:06:44</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>用户登录</operModule>  
+      <operRight>登录</operRight>  
+      <operTime>2018-07-28 07:06:46</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>系统管理</operModule>  
+      <operRight>系统设置</operRight>  
+      <operTime>2018-07-28 07:06:48</operTime> 
+    </row>  
+    <row> 
+      <operSeq/>  
+      <deviceCode>5206</deviceCode>  
+      <operModule>自助售票</operModule>  
+      <operRight>自助售票</operRight>  
+      <operTime>2018-07-28 07:29:16</operTime> 
+    </row>  
+    <row>
+      <operSeq></operSeq>
+      <deviceCode>5206</deviceCode>
+      <operModule>自助购票</operModule>
+      <operRight>主页</operRight>
+      <operTime>2018-07-28 07:29:19</operTime>
+    </row>
+  </body> 
+</data>

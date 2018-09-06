@@ -1,0 +1,48 @@
+
+<proxool-config> 
+  <proxool> 
+    <alias>traffic</alias>  
+    <driver-url>jdbc:mysql://127.0.0.1:3306/traffic?useUnicode=true&amp;characterEncoding=utf-8</driver-url>  
+    <driver-class>com.mysql.jdbc.Driver</driver-class>  
+    <driver-properties> 
+      <property name="user" value="root"/>  
+      <property name="password" value="123456"/> 
+    </driver-properties>  
+    <maximum-connection-count>10</maximum-connection-count>  
+    <minimum-connection-count>1</minimum-connection-count>  
+    <prototype-count>3</prototype-count>  
+    <house-keeping-sleep-time>900000</house-keeping-sleep-time>  
+    <maximum-active-time>600000</maximum-active-time>  
+    <maximum-connection-lifetime>18000000</maximum-connection-lifetime> 
+  </proxool>  
+  <proxool> 
+    <alias>insurance</alias>  
+    <driver-url>jdbc:mysql://127.0.0.2:3306/traffic?useUnicode=true&amp;characterEncoding=utf-8</driver-url>  
+    <driver-class>com.mysql.jdbc.Driver</driver-class>  
+    <driver-properties> 
+      <property name="user" value="root"/>  
+      <property name="password" value="123456"/> 
+    </driver-properties>  
+    <maximum-connection-count>10</maximum-connection-count>  
+    <minimum-connection-count>1</minimum-connection-count>  
+    <prototype-count>3</prototype-count>  
+    <house-keeping-sleep-time>900000</house-keeping-sleep-time>  
+    <maximum-active-time>600000</maximum-active-time>  
+    <maximum-connection-lifetime>18000000</maximum-connection-lifetime> 
+  </proxool>  
+  <proxool> 
+    <alias>voice</alias>  
+    <driver-url>jdbc:mysql://127.0.0.1:3306/traffic?useUnicode=true&amp;characterEncoding=utf-8</driver-url>  
+    <driver-class>com.mysql.jdbc.Driver</driver-class>  
+    <driver-properties> 
+      <property name="user" value="root"/>  
+      <property name="password" value="123456"/> 
+    </driver-properties>  
+    <maximum-connection-count>10</maximum-connection-count>  
+    <minimum-connection-count>1</minimum-connection-count>  
+    <prototype-count>3</prototype-count>  
+    <house-keeping-sleep-time>900000</house-keeping-sleep-time>  
+    <maximum-active-time>600000</maximum-active-time>  
+    <maximum-connection-lifetime>18000000</maximum-connection-lifetime> 
+  </proxool> 
+</proxool-config>

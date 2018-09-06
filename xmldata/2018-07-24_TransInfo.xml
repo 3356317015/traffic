@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data> 
+  <head> 
+    <class_name>TransInfo</class_name>  
+    <create_time>2018-07-24 17:09:34</create_time>  
+    <count>5</count> 
+  </head>  
+  <body> 
+    <row> 
+      <transResult>成功</transResult>  
+      <orderNo>201807240686043713</orderNo>  
+      <transTime>2018-07-24 17:09:34</transTime>  
+      <transCount>3</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>150</transPrice>  
+      <commodityName>免票数;全票;半票</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>成功</transResult>  
+      <orderNo>201807241888402410</orderNo>  
+      <transTime>2018-07-24 17:14:07</transTime>  
+      <transCount>2</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>150</transPrice>  
+      <commodityName>全票;半票</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>成功</transResult>  
+      <orderNo>201807240258090474</orderNo>  
+      <transTime>2018-07-24 17:44:35</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row> 
+      <transResult>成功</transResult>  
+      <orderNo>201807240212432136</orderNo>  
+      <transTime>2018-07-24 17:45:21</transTime>  
+      <transCount>1</transCount>  
+      <commodityCode/>  
+      <deviceCode>5206</deviceCode>  
+      <transPrice>0</transPrice>  
+      <commodityName>免票数</commodityName>  
+      <transSeq/> 
+    </row>  
+    <row>
+      <transResult>成功</transResult>
+      <orderNo>201807241197195104</orderNo>
+      <transTime>2018-07-24 17:47:38</transTime>
+      <transCount>1</transCount>
+      <commodityCode></commodityCode>
+      <deviceCode>5206</deviceCode>
+      <transPrice>0</transPrice>
+      <commodityName>免票数</commodityName>
+      <transSeq></transSeq>
+    </row>
+  </body> 
+</data>
